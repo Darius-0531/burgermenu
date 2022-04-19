@@ -1,0 +1,20 @@
+[
+  {
+    "name": "Burger 1", 
+    "price": 8,
+    "image": "https://raw.githubusercontent.com/Darius-0531/burgermenu/main/burger.png",
+    "description": "Description"    
+  },
+  {
+    "name": "Burger 2", 
+    "price": 7,
+    "image": "https://raw.githubusercontent.com/Darius-0531/burgermenu/main/burger.png",
+    "description": "Description"    
+  },
+  {
+    "name": "Burger 3", 
+    "price": 5,
+    "image": "https://raw.githubusercontent.com/Darius-0531/burgermenu/main/burger.png",
+    "description": "Description"    
+  }
+]
